@@ -27,6 +27,7 @@ SV/SvConsole/bin/
 SV/MMO.Reseption/bin/
 SV/DbProxy/bin/
 PHOTON/
+Library/
 
 #=========================================================
 /CL/[Ll]ibrary/
@@ -124,3 +125,4 @@ CL/UserSettings/Layouts/CurrentMaximizeLayout.dwlt
 CL/UserSettings/Layouts/default-2021.dwlt
 CL/UserSettings/Layouts/default-2021.dwlt
 CL/UserSettings/Layouts/CurrentMaximizeLayout.dwlt
+Logs/ApiUpdaterCheck.txt
